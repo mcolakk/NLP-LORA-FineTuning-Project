@@ -18,5 +18,8 @@ Eğitilen modeller AtCoder platformu soruları ile test edilmiştir.
 
 ## 📈 Eğitim Grafikleri
 Detaylı Loss grafikleri proje raporunda mevcuttur.
-<img wi<img width="846" height="547" alt="Unknown" src="https://github.com/user-attachments/assets/20ba7504-1938-472b-a875-432257fbb8d2" />
-dth="846" height="547" alt="Unknown-2" src="https://github.com/user-attachments/assets/49af52c8-92d0-4ebd-9814-9b81709cb9f1" />
+
+<img width="846" height="547" alt="Unknown-2" src="https://github.com/user-attachments/assets/905e967c-eea6-45b6-ab3a-f0c6a5bab3a7" />
+
+<img width="846" height="547" alt="Unknown" src="https://github.com/user-attachments/assets/05c0df66-c2e7-4a02-afab-cde92cc3e29c" />
+
