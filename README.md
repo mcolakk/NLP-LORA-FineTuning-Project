@@ -11,6 +11,10 @@ Bu proje, **Qwen2.5-Coder-1.5B-Instruct** modelini **Deep** ve **Diverse** veri 
 ## 📊 Benchmark Sonuçları (Pass@1)
 Eğitilen modeller AtCoder platformu soruları ile test edilmiştir.
 
+![Görüntü 15 12 2025 16 12](https://github.com/user-attachments/assets/414b469a-877d-4674-bd76-d3a4bd7b823d)
+
+<img width="663" height="260" alt="Ekran Resmi 2025-12-15 17 54 45" src="https://github.com/user-attachments/assets/3ac9e335-2858-4493-86c8-b69ee8eaaaf5" />
+
 | Model Kategorisi | En İyi Checkpoint | Pass@1 (%) | Çözülen Soru |
 | :--- | :--- | :--- | :--- |
 | **Deep_instruction** | checkpoint-step-200 | %26.8 | 11/41 |
